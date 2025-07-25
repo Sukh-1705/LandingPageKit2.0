@@ -25,6 +25,8 @@ A beautiful, responsive landing page UI kit for startups, built with HYML,CSS an
 2.  Paste it into your project or deploy as-is.
 3.  Customize the content and styling as needed.
 
+## 🤝 Support
 
+https://sukdevbansal-myresume.netlify.app
 
 © 2023 Sukdev. MIT License.
